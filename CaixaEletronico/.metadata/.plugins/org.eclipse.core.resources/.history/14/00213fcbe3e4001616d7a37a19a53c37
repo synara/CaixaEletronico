@@ -1,0 +1,57 @@
+package CaixaEletronico;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import junit.framework.Assert;
+
+public class CaixaEletronicoSaqueTest {
+
+/*
+	@Test
+	public void EhPraSerInvalido() {
+		CaixaEletronicoSaque saque = new CaixaEletronicoSaque();
+		saque.qtdNotas(0);
+		assertEquals(0, 0);
+	}
+	
+
+	@Test
+	public void EhPraSerInvalidoDeNovo() {
+		CaixaEletronicoSaque saque = new CaixaEletronicoSaque();
+		saque.qtdNotas(301);
+		assertEquals(0, 0);
+	}
+	
+	
+	@Test
+	public void Valor95EhPraSerInvalido() {
+		CaixaEletronicoSaque saque = new CaixaEletronicoSaque();
+		saque.qtdNotas(95);
+		assertEquals(0, 0);
+	}
+	
+	@Test
+	public void Valor300EhPraSer3De100() {
+		CaixaEletronicoSaque saque = new CaixaEletronicoSaque();
+		saque.qtdNotas(300);
+		assertEquals(3, 3);
+	}
+
+	@Test
+	public void Valor550EhPraSer6(){
+		CaixaEletronicoSaque saque = new CaixaEletronicoSaque();
+		saque.qtdNotas(550);
+		assertEquals(6, 6);
+	}
+	
+	@Test
+	public void EhPraSerIndisponivel(){
+		CaixaEletronicoSaque saque = new CaixaEletronicoSaque();
+		saque.qtdNotas(578.55f);
+		assertEquals(0, 0);
+	}*/
+
+
+}

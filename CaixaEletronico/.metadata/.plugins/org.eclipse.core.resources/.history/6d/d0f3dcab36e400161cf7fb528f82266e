@@ -1,0 +1,15 @@
+package CaixaEletronico;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CaixaEletronicoSaqueTest {
+
+	@Test
+	public void EhPraSerInvalido() {
+		CaixaEletronicoSaque saque = new CaixaEletronicoSaque();
+		saque.qtdNotas(0);
+	}
+
+}
